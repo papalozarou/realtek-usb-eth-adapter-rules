@@ -1,6 +1,6 @@
 # Realtek rules for RTL8159, RTL8157 and RTL8156/RTL8156B(G) chipsets
 
-Clone of Realtek rules to enable Raspberry Pi 5 to work with following network adapter.
+Clone of Realtek rules to enable Raspberry Pi 5 to work with following network adapters:
 
 * RTL8159: 10G Gigabit Ethernet > USB 3.2 Gen2
 * RTL8157: 5G Gigabit Ethernet > USB 3.2 Gen2
